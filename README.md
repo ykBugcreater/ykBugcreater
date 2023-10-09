@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ykBugcreater
+- 👋 Hi, I’m @yk
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science in software engineering
 - 💞️ I’m looking to collaborate on any pro team!!!
